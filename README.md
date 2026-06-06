@@ -1,6 +1,6 @@
 # Demo Jira
 
-Minimal house price prediction project for Jira and GitHub integration testing.
+House price prediction project for Jira and GitHub integration testing.
 
 ## Jira Issue
 
